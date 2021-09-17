@@ -1,5 +1,6 @@
 #include<stdio.h>
 int main()
+//a c code in text file for demonstration, change the extension before testing
 {
 printf("Hello world 1");
 }
